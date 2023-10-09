@@ -1,10 +1,16 @@
-header {font-size: 50px;}
+.html1 
+  {color:pink; background-color:blueviolet;}
+#img1
+  {width: 200px; padding-right: 0px; padding-left:70%;}
+.Header {
+  color: black; font-size: 50px; background-color: lavender;
+  padding: 20px;}
+/* find out how to put the words in a column*/
+.H 
+  {font-size: 30px;font-size: 20px;}
+  span {text-align: left;columns: 10px;}
+.h2 
+  {font-size: 30px; border-bottom: solid;}
 
-.H {font-size: 30px;}
-
-#P {font-size: 20px}
-
-.h2 {font-size: 30px; border-bottom: solid;}
-
-nav {text-align: right;
-  font-size:  20px; font-family: Georgia, 'Times New Roman', Times, serif;}
+#nav1 { columns: 10px;text-align: right; text-align: center; border-top: solid;
+  font-size:  20px; font-family: Georgia, 'Times New Roman', Times, serif; margin: 5px;padding: 10px;}
