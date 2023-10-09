@@ -8,10 +8,12 @@
 /* find out how to put the words in a column*/
 /*findout how to set img side by side the column of words */
 .H 
-  { columns: 100px;font-size: 30px;font-size: 20px;}
+  {columns: 100px;font-size: 30px;font-size: 20px;}
 
-img {width: 150px}
 
+#img {padding-left: 75px;}
+
+#p1 
 
 .h2 
   {font-size: 30px; border-bottom: solid;}
