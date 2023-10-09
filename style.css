@@ -6,6 +6,7 @@
   color: black; font-size: 50px; background-color: lavender;
   padding: 20px;}
 /* find out how to put the words in a column*/
+/*findout how to set img side by side the column of words */
 .H 
   {font-size: 30px;font-size: 20px;}
   span {text-align: left;columns: 10px;}
