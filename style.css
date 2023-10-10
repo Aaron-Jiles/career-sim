@@ -3,7 +3,6 @@
   background-color: aqua;font-size: 40px;}
   
 
-
 .H { background-color: red;
   display: grid; grid-template-columns: repeat(2, 2fr); grid-template-rows: repeat(3, 0fr); font-family: cursive; font-size: 25px;
 }
@@ -25,10 +24,6 @@ grid-row: 2; font-size: 20px;}
 
 .H {display: grid;
 grid-template-areas: 3;}
-
-
-
-.Header2 {text-align: right; background-color: blueviolet;}
 
 
 #ul1 {font-size: 30px;}
