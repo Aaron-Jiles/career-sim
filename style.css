@@ -1,6 +1,9 @@
 .Header {background-color: aqua;font-size: 40px;}
 
-#p {text-align: left; columns: auto;}
+.H {position: fixed; columns: 10px;
+}
+
+#p1 {position: fixed;}
 
 #nav1 {text-align: right;font-size: 20px;}
 
